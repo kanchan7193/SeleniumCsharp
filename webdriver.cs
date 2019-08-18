@@ -4,10 +4,10 @@ using OpenQA.Selenium.Chrome;
 using Xunit;
 
 
-namespace Csharpsele
+namespace seleniumcsharp
 {
     public class webdriver : IDisposable
-{
+ {
     private const string ChromeDriverDirectory = ("C:/javaproject/seleniumCsharp/");
     IWebDriver driver;    
     public IWebDriver Driver { get => driver; set => driver = value; }

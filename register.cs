@@ -3,18 +3,27 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Xunit;
 
-namespace Csharpsele
+namespace seleniumcsharp
 {
-     public class register : webdriver
+     public class register : IClassFixture<webdriver>
     {
+
+        webdriver w;
+
+       public register(webdriver Driver)
+       {
+        this.w = Driver;
+      }
+
+
         [Fact(Skip="Don want it now")]
         public void SecondTest()
         {
-            Driver.Navigate().GoToUrl("https://www.google.com"); 
-            IWebElement wb=Driver.FindElement(By.Name("q"));
-            wb.Clear();
-            wb.SendKeys("kamalesh");
-            wb.SendKeys(Keys.Enter);
+            w.Driver.Navigate().GoToUrl("https://www.google.com"); 
+            IWebElement searchbox=w.Driver.FindElement(By.Name("q"));
+            searchbox.Clear();
+            searchbox.SendKeys("kamalesh");
+            searchbox.SendKeys(Keys.Enter);
             Assert.True(true);
         }
 
@@ -22,12 +31,12 @@ namespace Csharpsele
         public void RegisterTest()
         {
             
-            Driver.Navigate().GoToUrl("https://smartsale.info/register/"); 
-            IWebElement username = Driver.FindElement(By.Name("username"));
-            IWebElement email = Driver.FindElement(By.Name("email"));
-            IWebElement password1 = Driver.FindElement(By.Name("password1"));
-            IWebElement password2 = Driver.FindElement(By.Name("password2"));
-            IWebElement signup = Driver.FindElement(By.CssSelector(".btn.btn-outline-info"));
+            w.Driver.Navigate().GoToUrl("https://smartsale.info/register/"); 
+            IWebElement username = w.Driver.FindElement(By.Name("username"));
+            IWebElement email = w.Driver.FindElement(By.Name("email"));
+            IWebElement password1 = w.Driver.FindElement(By.Name("password1"));
+            IWebElement password2 = w.Driver.FindElement(By.Name("password2"));
+            IWebElement signup = w.Driver.FindElement(By.CssSelector(".btn.btn-outline-info"));
 
             username.Clear();
             username.SendKeys("Kamalesh2");
