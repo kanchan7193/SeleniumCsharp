@@ -8,7 +8,7 @@ namespace Csharpsele
 {
     public class webdriver : IDisposable
 {
-    private const string ChromeDriverDirectory = ("C:/javaproject/Csharpsele/");
+    private const string ChromeDriverDirectory = ("C:/javaproject/seleniumCsharp/");
     IWebDriver driver;    
     public IWebDriver Driver { get => driver; set => driver = value; }
     public void Dispose()

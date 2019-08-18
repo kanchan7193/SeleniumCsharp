@@ -12,3 +12,17 @@ C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcore
 C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
 C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\Csharpsele.runtimeconfig.json
 C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\Csharpsele.runtimeconfig.dev.json
+C:\javaproject\seleniumCsharp\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\javaproject\seleniumCsharp\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\javaproject\seleniumCsharp\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\javaproject\seleniumCsharp\bin\Debug\netcoreapp2.1\Csharpsele.deps.json
+C:\javaproject\seleniumCsharp\bin\Debug\netcoreapp2.1\Csharpsele.runtimeconfig.json
+C:\javaproject\seleniumCsharp\bin\Debug\netcoreapp2.1\Csharpsele.runtimeconfig.dev.json
+C:\javaproject\seleniumCsharp\bin\Debug\netcoreapp2.1\Csharpsele.dll
+C:\javaproject\seleniumCsharp\bin\Debug\netcoreapp2.1\Csharpsele.pdb
+C:\javaproject\seleniumCsharp\obj\Debug\netcoreapp2.1\Csharpsele.csprojAssemblyReference.cache
+C:\javaproject\seleniumCsharp\obj\Debug\netcoreapp2.1\Csharpsele.csproj.CoreCompileInputs.cache
+C:\javaproject\seleniumCsharp\obj\Debug\netcoreapp2.1\Csharpsele.AssemblyInfoInputs.cache
+C:\javaproject\seleniumCsharp\obj\Debug\netcoreapp2.1\Csharpsele.AssemblyInfo.cs
+C:\javaproject\seleniumCsharp\obj\Debug\netcoreapp2.1\Csharpsele.dll
+C:\javaproject\seleniumCsharp\obj\Debug\netcoreapp2.1\Csharpsele.pdb

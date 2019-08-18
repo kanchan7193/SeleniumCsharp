@@ -5714,11 +5714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\javaproject\\Csharpsele\\Csharpsele.csproj",
-      "projectName": "Csharpsele",
-      "projectPath": "C:\\javaproject\\Csharpsele\\Csharpsele.csproj",
+      "projectUniqueName": "C:\\javaproject\\seleniumCsharp\\seleniumcsharp.csproj",
+      "projectName": "seleniumcsharp",
+      "projectPath": "C:\\javaproject\\seleniumCsharp\\seleniumcsharp.csproj",
       "packagesPath": "C:\\Users\\shree\\.nuget\\packages\\",
-      "outputPath": "C:\\javaproject\\Csharpsele\\obj\\",
+      "outputPath": "C:\\javaproject\\seleniumCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
