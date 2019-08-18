@@ -1,0 +1,14 @@
+C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\Csharpsele.deps.json
+C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\Csharpsele.dll
+C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\Csharpsele.pdb
+C:\javaproject\Csharpsele\obj\Debug\netcoreapp2.1\Csharpsele.csprojAssemblyReference.cache
+C:\javaproject\Csharpsele\obj\Debug\netcoreapp2.1\Csharpsele.csproj.CoreCompileInputs.cache
+C:\javaproject\Csharpsele\obj\Debug\netcoreapp2.1\Csharpsele.AssemblyInfoInputs.cache
+C:\javaproject\Csharpsele\obj\Debug\netcoreapp2.1\Csharpsele.AssemblyInfo.cs
+C:\javaproject\Csharpsele\obj\Debug\netcoreapp2.1\Csharpsele.dll
+C:\javaproject\Csharpsele\obj\Debug\netcoreapp2.1\Csharpsele.pdb
+C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\Csharpsele.runtimeconfig.json
+C:\javaproject\Csharpsele\bin\Debug\netcoreapp2.1\Csharpsele.runtimeconfig.dev.json

@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\javaproject\\Csharpsele\\Csharpsele.csproj": {}
+  },
+  "projects": {
+    "C:\\javaproject\\Csharpsele\\Csharpsele.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\javaproject\\Csharpsele\\Csharpsele.csproj",
+        "projectName": "Csharpsele",
+        "projectPath": "C:\\javaproject\\Csharpsele\\Csharpsele.csproj",
+        "packagesPath": "C:\\Users\\shree\\.nuget\\packages\\",
+        "outputPath": "C:\\javaproject\\Csharpsele\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shree\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[75.0.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
